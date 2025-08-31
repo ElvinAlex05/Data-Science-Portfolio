@@ -25,3 +25,5 @@ Project files will be added here, including:
 - Screenshots of the dashboard
 - Summary PDF (if applicable)
 
+![Retail Dashboard](Retail%20Dashboard%20Screenshot.PNG)
+
