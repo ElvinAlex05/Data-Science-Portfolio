@@ -40,5 +40,3 @@ Below is a screenshot of the Tableau dashboard:
 ![Retail Dashboard](Retail%20Dashboard%20Screenshot.PNG)  
 
 
-![Retail Dashboard](Retail%20Dashboard%20Screenshot.PNG)
-
