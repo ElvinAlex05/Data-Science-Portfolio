@@ -25,5 +25,20 @@ Project files will be added here, including:
 - Screenshots of the dashboard
 - Summary PDF (if applicable)
 
+
+This project provides an analysis of UK online retail data, focusing on sales, customer segmentation, and product performance. The dashboard highlights key business insights such as:  
+
+- 📊 Sales by product group (UK only)  
+- 👥 Customer segmentation (RFM-based and traditional segments)  
+- 💰 Monthly revenue trends  
+- 🏆 Top 10 customers and top 10 products  
+
+## 📸 Dashboard Preview  
+
+Below is a screenshot of the Tableau dashboard:  
+
+![Retail Dashboard](Retail%20Dashboard%20Screenshot.PNG)  
+
+
 ![Retail Dashboard](Retail%20Dashboard%20Screenshot.PNG)
 
