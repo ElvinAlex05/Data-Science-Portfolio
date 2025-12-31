@@ -1,7 +1,8 @@
 ## 🧹 Data Engineering (Tableau Prep)
 
 The Online Retail dataset was prepared in **Tableau Prep** to create clean, consistent, and analysis-ready extracts for **Tableau Desktop dashboarding** and **RFM-based customer segmentation**. The workflow follows a maintainable ETL pattern: core transformations are applied once in an upstream cleaning stage, after which the pipeline branches into a **UK-only dataset** (used directly in the dashboard) and a **globally cleaned dataset** (retained for reuse and potential future extension).  
-**Evidence:** Figures **DE1–DE6**.
+**Evidence:<img width="1716" height="937" alt="image" src="https://github.com/user-attachments/assets/12ce7b06-e23e-4ee5-8e50-599588726698" />
+
 
 ---
 
