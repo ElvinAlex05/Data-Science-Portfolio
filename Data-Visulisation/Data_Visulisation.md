@@ -12,7 +12,7 @@ Ranked **horizontal bar charts** are used for Top Products/Customers and Sales b
 
 A **line chart** is used for Monthly Revenue because it communicates change over time effectively and supports identification of peaks and dips (Munzner, 2014).
 
-<img width="500" height="141" alt="image" src="https://github.com/user-attachments/assets/cbd7116a-f01f-4188-a744-6fa1c1fe1f78" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/cbd7116a-f01f-4188-a744-6fa1c1fe1f78" />
 Interactivity is deliberately constrained to business questions via filters (e.g., Product Name, Month, Customer ID and segment filters), enabling drill-down without overwhelming users—consistent with dashboard design guidance (Tableau, n.d.). 
 
 <img width="1623" height="1065" alt="image" src="https://github.com/user-attachments/assets/b2fc463f-3b54-4ed0-a6b8-753ebd06b26e" />
