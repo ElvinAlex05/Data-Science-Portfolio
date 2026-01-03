@@ -12,7 +12,7 @@ Cleaned data were exported as **Tableau `.hyper` extracts** to provide stable in
 
 ---
 
-## References (Harvard)
+## References 
 
 GitHub (n.d.-a) *About Git*. Available at: https://docs.github.com/en/get-started/using-git/about-git (Accessed: 3 January 2026).
 
