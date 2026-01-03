@@ -1,4 +1,4 @@
-## 📈 Data Analytics (≤400 words)
+## 📈 Data Analytics 
 
 Analysis was conducted in Tableau Desktop using the cleaned `.hyper` extracts from Tableau Prep to answer three business questions: (1) which products and customers drive revenue, (2) how revenue changes over time, and (3) whether customers can be segmented into actionable groups for retention and targeting. 
 
