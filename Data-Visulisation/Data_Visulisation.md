@@ -22,7 +22,7 @@ Two segmentation views (spend tiers and RFM segments) translate analysis into ac
 
 ---
 
-## References (Harvard)
+## References
 
 Cheng, C.-H. and Chen, Y.-S. (2009) ‘Classifying the segmentation of customer value via RFM model and RS theory’, *Expert Systems with Applications*, 36(3, Part 1), pp. 4176–4184. doi:10.1016/j.eswa.2008.04.003.
 
