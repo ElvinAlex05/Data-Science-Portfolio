@@ -1,4 +1,4 @@
-## 🧰 Data Infrastructure and Tools (≤300 words)
+## 🧰 Data Infrastructure and Tools 
 
 This project used a lightweight, end-to-end toolchain to move from raw retail transactions to an interactive, assessable analytics artefact: **Excel source → Tableau Prep (ETL) → `.hyper` extract → Tableau Desktop dashboard → GitHub portfolio**. The design choice prioritised fast iteration, transparent transformation steps, and stakeholder-ready delivery.
 
