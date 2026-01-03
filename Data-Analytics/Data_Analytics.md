@@ -1,6 +1,6 @@
 ## 📈 Data Analytics (≤400 words)
 
-Analysis was conducted in Tableau Desktop using the cleaned `.hyper` extracts from Tableau Prep to answer three business questions: (1) which products and customers drive revenue, (2) how revenue changes over time, and (3) whether customers can be segmented into actionable groups for retention and targeting. A simple scientific-method structure was used: define hypotheses, operationalise measures, analyse outputs, and evaluate whether results support decisions.
+Analysis was conducted in Tableau Desktop using the cleaned `.hyper` extracts from Tableau Prep to answer three business questions: (1) which products and customers drive revenue, (2) how revenue changes over time, and (3) whether customers can be segmented into actionable groups for retention and targeting. 
 
 Three hypotheses guided the work: **H1** revenue is concentrated in a small subset of products/customers; **H2** revenue varies over time with identifiable peaks; **H3** behavioural segmentation produces meaningful groups. Revenue was operationalised as `Total Price = Quantity × UnitPrice` using Tableau calculated fields so all charts aggregate a consistent KPI (Tableau, n.d.). H1 was tested using ranked views of product groups, products and customers to identify concentration and prioritisation opportunities. H2 was assessed by aggregating Total Price by month to observe trend and seasonality patterns; this supports planning (campaign timing, stock decisions) while recognising the analysis is observational and does not infer causality.
 
@@ -10,7 +10,7 @@ Ethically, CustomerID was treated as pseudonymous and analysis was restricted to
 
 ---
 
-## References (Harvard)
+## References 
 
 Cheng, C.-H. and Chen, Y.-S. (2009) ‘Classifying the segmentation of customer value via RFM model and RS theory’, *Expert Systems with Applications*, 36(3, Part 1), pp. 4176–4184. doi:10.1016/j.eswa.2008.04.003.
 
