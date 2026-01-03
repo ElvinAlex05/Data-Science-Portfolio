@@ -1,4 +1,4 @@
-## 📊 Dashboard & Visualisation (≤200 words)
+## 📊 Dashboard & Visualisation 
 
 The **UK Online Retail Performance Dashboard** was built in Tableau Desktop to communicate sales performance and customer value to non-technical stakeholders who need quick, defensible answers in meetings. 
 <img width="1500" height="1000" alt="Retail Dashboard Screenshot" src="https://github.com/user-attachments/assets/4cc76330-70c4-4e25-8843-e43b3ea1253f" />
